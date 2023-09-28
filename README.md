@@ -17,7 +17,7 @@ You need [BaseQI 504A](https://aliexpress.com/item/32820381120.html).
 
 ## Aluminum dust plugs
 
-Just for aesthetics BaseQI produces [iHut aluminum dust plugs](https://aliexpress.com/item/32862599440.html) for all the port.
+Just for aesthetics BaseQI produces [iHut aluminum dust plugs](https://aliexpress.com/item/32862599440.html) for all ports - HDMI, 2xUSB, 2xMiniDisplayPort.
 
 
 ## Faster SSD
@@ -43,19 +43,19 @@ NB: Macbook Pro 15 2014 and earlier supports SSDs with PCIe 2.0 speed only (1.5G
 
 Take [Thermal Grizzly 120x20x1mm](https://aliexpress.com/item/4001227065123.html) thermal pad and split it up into 2 pieces for each cooler.
 
-# Key caps replacement 
+## Key caps replacement 
 
 New [set of key caps](https://aliexpress.com/item/1005004129980559.html) is being sold with plastic pry tool.
 
 With plastic prying tool its easy to replace keycaps just by pry them up from the bottom right by pressing on the scissor mechanism and pulling the key cap up.
 
-# Portable stand
+## Portable stand
 
 There are plenty of stands for Macbook.
 Here is the [small raiser stand](https://aliexpress.com/item/4000865097835.html) which raises Macbook to 5 degrees inclination angle from the table.
 
 
-# Headless Macbook
+## Headless Macbook
 
 If you broke Retina screen on your Macbook - then you still could remove the screen, set up anthenna and get a working computer which works with any HDMI monitor.
 
