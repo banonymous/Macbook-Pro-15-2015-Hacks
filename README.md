@@ -4,10 +4,10 @@
 
 Macbook Pro 15 2015 originally charges with 85W Magsafe 2 Apple charger. It gets bad after a year or two and forces you to buy a new one.
 In order to hack the charger you need:
-- Apple 87W or 96W Type-C charger (could be used one)
+- Apple 87W or 96W Type-C charger (may be used one)
 - [Ugreen 85W nylon braided Magsafe 2 <=> Type-C cable](https://aliexpress.com/item/1005003798009526.html).
 
-[Here](https://github.com/banonymous/Macbook-Pro-2015-Custom-85W-Charger-Magsafe-2-Type-C) are additional metrics of different chargers testings.
+[Here](https://github.com/banonymous/Macbook-Pro-2015-Custom-85W-Charger-Magsafe-2-Type-C) are additional metrics of different chargers testings. (still WIP)
 
 ## Hidden microSD adapter
 
@@ -60,5 +60,8 @@ Take [Thermal Grizzly 120x20x1mm](https://aliexpress.com/item/4001227065123.html
 If you broke Retina screen on your Macbook - then you still could remove the screen, set up anthenna and get a working computer which works with any HDMI monitor.
 
 [Here](https://www.youtube.com/watch?v=uOigVjqW7hc) is the manual on Youtube.
+
+## Headless Macbook + Vision Pro
+[Here](https://www.youtube.com/watch?v=QUa_pPUbpGQ&pp=ygUTaGVhZGxlc3MgdmlzaW9uIHBybw%3D%3D) is the manual on Youtube. Please note that is not tested with Retina Macbook Pro 2015. Create an issue here if you do the test.
 
 
